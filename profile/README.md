@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../main/richard-r-logo-CENTERED.png" width="150" alt="Organization Logo" />
+  <img src="../richard-r-logo-CENTERED.png" width="150" alt="Organization Logo" />
 </p>
 
 <h1 align="center">RICHARD LAVASON</h1>
